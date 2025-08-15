@@ -27,10 +27,6 @@ Pendant le Bootcamp, j’ai identifié plusieurs idées de projets intéressants
 - React.js, Node.js, Express.js
 - MongoDB, Mongoose
 
-### Data Science
-- Python (Pandas, NumPy, Matplotlib)
-- Nettoyage et visualisation de données
-- Analyse statistique
 
 ###  Outils & Méthodologies
 - Git & GitHub
@@ -41,9 +37,9 @@ Pendant le Bootcamp, j’ai identifié plusieurs idées de projets intéressants
 ---
 
 ## 4. Objectifs professionnels à court terme
-- 🔹 Intégrer une équipe tech pour mettre en pratique mes compétences.  
-- 🔹 Développer un portfolio solide de projets concrets.  
-- 🔹 Continuer à me spécialiser en développement web fullstack et en data science.
+-  Intégrer une équipe tech pour mettre en pratique mes compétences.  
+-  Développer un portfolio solide de projets concrets.  
+-  Continuer à me spécialiser en développement web fullstack et en data science.
 
 ---
 
